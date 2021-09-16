@@ -17,7 +17,7 @@ client = ElsClient(os.environ["API_KEY"])
 
 ## Author example
 # Initialize author with uri
-my_auth = ElsAuthor(uri='https://api.elsevier.com/content/author/author_id/7004367821')
+my_auth = ElsAuthor(uri='https://api.elsevier.com/content/author/author_id/7005783434')
 
 # Read author data, then write to disk
 if my_auth.read(client):

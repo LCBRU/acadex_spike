@@ -130,3 +130,7 @@ dmypy.json
 
 # Environment
 .env
+
+# Data
+logs/
+data/
